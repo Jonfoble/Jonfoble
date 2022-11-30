@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=Jonfoble&icon=5&color=6)](https://visitcount.itsvg.in)
 
 - 📫 How to reach me: **emreguzelofficial@gmail.com**
-- ⚡ Fun fact **I am a teacher at the same time.**
+- ⚡ Fun fact **I was a teacher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
