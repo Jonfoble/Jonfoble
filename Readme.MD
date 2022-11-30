@@ -2,7 +2,6 @@
 <h3 align="center">A Game Development And Learning Enthusiast.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Jonfoble&icon=5&color=6)](https://visitcount.itsvg.in)
-
 - 📫 How to reach me: **emreguzelofficial@gmail.com**
 - ⚡ Fun fact **I was a teacher**
 
