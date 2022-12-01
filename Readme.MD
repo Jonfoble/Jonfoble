@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Emre Guzel</h1>
 <h3 align="center">A Game Development And Learning Enthusiast.</h3>
+
 - 📫 How to reach me: **emreguzelofficial@gmail.com**
 - ⚡ Fun fact **I was a teacher**
 
