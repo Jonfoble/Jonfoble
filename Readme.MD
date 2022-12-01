@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Emre Guzel</h1>
 <h3 align="center">A Game Development And Learning Enthusiast.</h3>
-
-[![](https://visitcount.itsvg.in/api?id=Jonfoble&icon=5&color=6)](https://visitcount.itsvg.in)
 - 📫 How to reach me: **emreguzelofficial@gmail.com**
 - ⚡ Fun fact **I was a teacher**
 
@@ -20,7 +18,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jonfoble&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonfoble&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jonfoble&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
