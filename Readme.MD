@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src= "https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=32&duration=2500&pause=1000&color=00E7FF&background=5670FF00&center=true&vCenter=true&width=440&height=100&lines=Unity+Game+Developer;Software+Engineer;Hardcore+Gamer;Musician" alt="Typing SVG" /></a>
-<h1 align="center">Hello there 🙃, I'm Emre</h1>
+<h1 align="center">Hello there, I'm Emre</h1>
 <h3 align="center">I'm a game developer with a passion for software architecture, maintainability and design.</h3>
 
 - 🔭 I’m currently working on **Multiplayer PC Games.**
