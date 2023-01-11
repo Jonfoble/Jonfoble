@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emre Guzel</h1>
-<h3 align="center">A Game Development And Learning Enthusiast. Currently Working On A 3D Multiplayer FPS Shooter for PC.</h3>
+<h3 align="center">A Game Development Enthusiast. Currently Working On A 3D Multiplayer FPS Shooter for PC.</h3>
 
 - 📫 How to reach me: **emreguzelofficial@gmail.com**
 - ⚡ Fun fact **I was a teacher**
