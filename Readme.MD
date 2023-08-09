@@ -4,8 +4,8 @@
 <h1 align="center">Hello there, I'm Emre</h1>
 <h3 align="center">I'm a game developer with a passion for software architecture, maintainability and design.</h3>
 
-- 🔭 I’m currently working on **Multiplayer PC Games.**
-- 🌱 I’m currently learning **Shaders and Procedural Generation.**
+- 🔭 I’m currently working on **Multiplayer PC Games**
+- 🌱 I’m currently learning **Shaders, Procedural Generation and AI**
 - 📫 How to reach me: **emreguzelofficial@gmail.com**
 - ⚡ Fun fact **I was a teacher**
 
