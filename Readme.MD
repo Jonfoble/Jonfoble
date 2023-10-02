@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Both Unity and Unreal Engine**
 - 🌱 I’m currently learning **Shader Coding**
 - 📫 How to reach me: **emreguzelofficial@gmail.com**
-- ⚡ Fun fact **Assassins in Diablo 2 do not need keys to unlock anything**
+- ⚡ Fun fact: **Assassins in Diablo 2 do not need keys to unlock anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
