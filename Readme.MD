@@ -4,7 +4,7 @@
 <h1 align="center">Hello there, I'm Emre</h1>
 <h3 align="center">I'm a game developer with a passion for software architecture, maintainability and design.</h3>
 
-- 🔭 I’m currently working on **Unreal Engine**
+- 🔭 I’m currently working on **Both Unity and Unreal Engine**
 - 🌱 I’m currently learning **Shader Coding**
 - 📫 How to reach me: **emreguzelofficial@gmail.com**
 - ⚡ Fun fact **Assassins in Diablo 2 do not need keys to unlock anything**
