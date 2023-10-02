@@ -4,10 +4,10 @@
 <h1 align="center">Hello there, I'm Emre</h1>
 <h3 align="center">I'm a game developer with a passion for software architecture, maintainability and design.</h3>
 
-- 🔭 I’m currently working on **Game Engine Programming**
-- 🌱 I’m currently learning **Shaders, Procedural Generation and AI**
+- 🔭 I’m currently working on **Unreal Engine**
+- 🌱 I’m currently learning **Shader Coding**
 - 📫 How to reach me: **emreguzelofficial@gmail.com**
-- ⚡ Fun fact **I was a teacher**
+- ⚡ Fun fact **Assassins in Diablo 2 do not need keys to unlock anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
