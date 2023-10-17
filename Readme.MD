@@ -2,9 +2,9 @@
   <a href="https://git.io/typing-svg"> 
     <img src= "https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=32&duration=2500&pause=1000&color=00E7FF&background=5670FF00&center=true&vCenter=true&width=440&height=100&lines=Game+Developer;Software+Engineer;Hardcore+Gamer;Musician" alt="Typing SVG" /></a>
 <h1 align="center">Hello there, I'm Emre</h1>
-<h3 align="center">I'm a game developer with a passion for software architecture, maintainability and design.</h3>
+<h3 align="center">I'm a software engineer with a passion for software architecture, maintainability and design.</h3>
 
-- 🔭 I’m currently working on **Both Unity and Unreal Engine**
+- 🔭 I’m currently working on **Both Unity, Unreal Engine and Java**
 - 🌱 I’m currently learning **Shader Coding**
 - 📫 How to reach me: **emreguzelofficial@gmail.com**
 - ⚡ Fun fact: **Assassins in Diablo 2 do not need keys to unlock anything**
