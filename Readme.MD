@@ -4,8 +4,8 @@
 <h1 align="center">Hello there, I'm Emre</h1>
 <h3 align="center">I'm a game developer with a passion for software architecture, maintainability, modularity and design.</h3>
 
-- 🔭 I’m currently working on **Unity**
-- 🌱 I’m currently learning **Procedural Generation**
+- 🔭 I’m currently working with **Unity**
+- 🌱 I’m currently learning **C++20 OpenGL 4.X GLSL PBR Shading**
 - 📫 How to reach me: **emreguzelofficial@gmail.com**
 - ⚡ Fun fact: **Assassins in Diablo 2 do not need keys to unlock chests**
 
