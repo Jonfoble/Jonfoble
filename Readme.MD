@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working with **Unity** / . **.NET**
+- 🔭 Currently working with **Unity** / **.NET**
 - 🌱 Currently learning **C++20, OpenGL 4.X, GLSL, and PBR Shading**
 - 📫 Reach me at **emreguzelofficial@gmail.com**
 - ⚡ Fun fact: **Assassins in Diablo 2 do not need keys to unlock chests**
