@@ -9,7 +9,7 @@
 
   # Hello there, I'm Emre
 
-  ### Game developer passionate about software architecture, maintainability, modularity, and clean design.
+  ### Software Engineer passionate about software architecture, maintainability, modularity, and clean design.
 
 </div>
 
